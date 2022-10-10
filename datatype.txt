@@ -1,0 +1,29 @@
+JavaScript provide 7 type of data type 
+1. undefined 
+2. null
+3. boolean
+4. string
+5. symbol
+6. number
+7. object 
+
+there are three way to declare the variable in JavaScript
+var it is use in whole program
+let used with in the a particular block
+constant value will never change
+
+
+Initializing Variable /Assignment Operators
+var a=3;
+
+variable name are case sensitive in javaScript
+
+Escape Sequences in java script
+\' single quote
+\" double quote
+\\ backslash
+\n newline
+\r carriage return
+\t tab
+\b backspace 
+\f form feed
